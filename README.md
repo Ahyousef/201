@@ -12,7 +12,7 @@ Description | Page
 ---- | -----------
 Read 01| [Class 01](class-01.md)
 Read 02 | [Class 02](class-02.md)
-Read 03| [Read 03](Read03.md)
+Read 03| [Class 03](Class-03.md)
 Read 04 | [Read 04](Read04.md)
 Read 05| [Read 05](Read05.md)
 Read 06 | [Read 06](Read06.md)
