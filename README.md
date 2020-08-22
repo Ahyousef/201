@@ -6,10 +6,10 @@ In this website, I will be noting down my reading notes for all the courses of f
 
 Hi, I am Ahmad Yousef, a technology and CS enthusiast, I come originally from Palestine and currently live in Jordan. This will be the beginning of a lifetime journey.
 
-### [Code 102 - Intro to Software Development](/102/README.md)
+### [Code 102 - Intro to Software Development](reading-notes/102/main)
 
-### [Code 201 - Foundations of Software Development](/201/README.md)
+### [Code 201 - Foundations of Software Development](reading-notes/201/main)
 
-### [Code 301 - Intermediate Software Development](/301/README.md)
+### [Code 301 - Intermediate Software Development](reading-notes/301/main)
 
-### [Code 401 - Advanced Software Development](/401/README.md)
+### [Code 401 - Advanced Software Development](reading-notes/401/main)
