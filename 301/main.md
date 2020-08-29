@@ -10,7 +10,6 @@ Hi, I am Ahmad Yousef, a technology and CS enthusiast, I come originally from Pa
 
 Description | Page
 ---- | -----------
-Read 00| [Class 00](class-00.md)
 Read 01| [Class 01](class-01.md)
 Read 02 | [Class 02](class-02.md)
 Read 03| [Class 03](class-03.md)
