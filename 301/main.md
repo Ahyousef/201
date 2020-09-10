@@ -10,7 +10,7 @@ Hi, I am Ahmad Yousef, a technology and CS enthusiast, I come originally from Pa
 
 Description | Page
 ---- | -----------
-Read 01| [Class 01](class-01.md)
+Read 01| [Class 01](class-01)
 Read 02 | [Class 02](class-02.md)
 Read 03| [Class 03](class-03.md)
 Read 04 | [Class 04](class-04.md)
@@ -23,5 +23,5 @@ Read 10 | [Class 10](class-10.md)
 Read 11| [Class 11](class-11.md)
 Read 12 | [Class 12](class-12.md)
 Read 13| [Class 13](class-13.md)
-Read 14 | [Read 14](Read14.md)
+Read 14 | [Read 14](class-14-a.md)
 Read 15 | [Read 15](Read15.md)
