@@ -30,8 +30,6 @@
 
 **NPM** : Node Package Manager is a command line tool that installs, updates or uninstalls Node.js packages in your application. It is also an online repository for open-source Node.js packages.
 
-server : server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called “clients”. This architecture is called the client–server model. Servers can provide various functionalities, often called “services”, such as sharing data or resources among multiple clients, or performing computation for a client
-
 **Environment** : The place or space that something works and runs, for example NODEjs is a runtime *environment* for javascript
 
 **Interpreter** : Interpreter is a program that executes instructions written in a high-level language. 
