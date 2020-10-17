@@ -46,6 +46,7 @@ In-memory database pros & cons
 Pros:
 
 No need for mocks: Your code is directly executed using the in-memory database, exactly the same as using your regular database.
+
 Faster development: Given that I don't need to build a mock for every operation and outcome but only test the query, I found the development process to be faster and more straightforward.
 More reliable tests: You're testing the actual code that will be executed on production, instead of some mock that might be incorrect, incomplete or outdated.
 Tests are easier to build: I'm not an expert in unit testing and the fact that I only need to seed the database and execute the code that I need to test made the whole process a lot easier to me.
