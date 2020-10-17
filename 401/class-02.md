@@ -35,3 +35,13 @@
 **Interpreter** : Interpreter is a program that executes instructions written in a high-level language. 
 
 **Compiler** : is a computer program that translates computer code written in one programming language into another language.
+
+ ## Preparation Materials
+
+ ### TDD
+Test driven development is basically a style of development that uses tests as a way to validate everything is working fine. Using tests also helps recognize which parts of your script are not working normally.
+
+### Inheritance
+
+#### Inheriting properties
+JavaScript objects are dynamic "bags" of properties (referred to as own properties). JavaScript objects have a link to a prototype object. When trying to access a property of an object, the property will not only be sought on the object but on the prototype of the object, the prototype of the prototype, and so on until either a property with a matching name is found or the end of the prototype chain is reached.
