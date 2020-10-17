@@ -36,9 +36,9 @@
 
 **Compiler** : is a computer program that translates computer code written in one programming language into another language.
 
- ## Preparation Materials
+## Preparation Materials
 
- ### TDD
+### TDD
 Test driven development is basically a style of development that uses tests as a way to validate everything is working fine. Using tests also helps recognize which parts of your script are not working normally.
 
 ### Inheritance
