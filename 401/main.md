@@ -32,3 +32,4 @@ Hi, I am Ahmad Yousef, a technology and CS enthusiast, I come originally from Pa
 | Read 28     | [Class 28](class-28.md) |
 | Read 29     | [Class 29](class-29.md) |
 | Read 30     | [Class 30](class-30.md) |
+| Read 31     | [Class 31](class-31.md) |
